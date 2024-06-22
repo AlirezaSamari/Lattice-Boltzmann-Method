@@ -1,4 +1,4 @@
-# Parallel Lattice Boltzmann Code on CPU
+# Parallel Lattice Boltzmann Code on CPU + PyTorch Implementation
 
 This repository contains code for simulating fluid flow using the Lattice Boltzmann Method (LBM) with parallel processing on CPU. The Numpy library is used to optimize the simulation for CPU-based parallelism.
 
